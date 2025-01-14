@@ -1,8 +1,20 @@
-# React + Vite
+# **Forever - E-commerce Website Dashboard**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The admin dashboard for managing the Forever e-commerce platform, including product management, user control, and order tracking.
 
-Currently, two official plugins are available:
+## **Live Server**
+[Forever E-commerce](https://ecommerce-app-frontend-two.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**
+- **Product Management:** Add, edit, and delete products easily.  
+- **User Management:** Monitor and manage users effectively.  
+- **Order Tracking:** View and update order statuses.  
+- **Responsive Design:** Optimized for various devices.  
+
+## **Technologies Used**
+- **Frontend Framework:** React.js  
+- **Styling:** React Bootstrap  
+- **State Management:** React Context API  
+- **API Integration:** Axios for communication with the backend.  
+
+
